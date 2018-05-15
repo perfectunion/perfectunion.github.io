@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	background-color: #F0F8FF;
+}
+
+header {
+    background-color: #F0F8FF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#slogan{
+	font-style: italic;
+}
+
+h1 {
+	color:blue
+	style="text-align:center";
+	font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+	background-color: #F0F8FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+    background-color: #F0F8FF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: lightblue;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: lightblue;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+aside {
+	background-color: #F0F8FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #F0F8FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #F0F8FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div {
+	background-color: #F0F8FF;
+	border: 1px black solid;
+	padding: 20px;
+}
